@@ -1,11 +1,13 @@
 package main.java.home.netology.collections.hashmap.phonebook;
 
-public class Contact {
+public class Contact implements Comparable {
     private String name;
+    private String lastName;
     private String phoneNumber;
 
-    public Contact(String name, String phoneNumber) throws PhoneValidator {
+    public Contact(String name, String lastName, String phoneNumber) throws PhoneValidator {
         this.name = name;
+        this.lastName = lastName;
         this.phoneNumber = phoneValidator(phoneNumber);
     }
 
@@ -26,7 +28,29 @@ public class Contact {
         return name;
     }
 
+    public String getLastName() {
+        return lastName;
+    }
+
     public String getPhoneNumber() {
         return phoneNumber;
+    }
+
+    @Override
+    public int compareTo(Object that) {
+        if (that == this) {
+            return 1;
+        }
+        if (that == null) {
+            return -1;
+        }
+        if (that instanceof Contact) {
+            if (this.getLastName().charAt(0) > ((Contact) that).getLastName().charAt(0)) {
+                return 1;
+            } else if (this.getLastName().charAt(0) == ((Contact) that).getLastName().charAt(0)) {
+                return 0;
+            }
+        }
+        return 0;
     }
 }

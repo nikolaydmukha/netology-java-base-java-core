@@ -1,5 +1,6 @@
 package main.java.home.netology.collections.hashmap.phonebook;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 
@@ -17,8 +18,10 @@ public class PhoneBook {
         return phoneBook;
     }
 
-    public void addContactToGroup(Contact contact, int group) {
-        getGroupContacts(group).add(contact);
+    public void addContactToGroup(Contact contact, ArrayList<Integer> groups) {
+        for(int i = 0; i < groups.size(); i++) {
+            getGroupContacts(groups.get(i)).add(contact);
+        }
     }
 
     public void addGroupToPhoneBook(Group group) {
