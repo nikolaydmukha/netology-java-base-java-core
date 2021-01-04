@@ -1,8 +1,7 @@
 package main.java.home.netology.collections.queuecollection.transactions;
 
 import java.math.BigDecimal;
-import java.util.ArrayDeque;
-import java.util.Deque;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -48,5 +47,6 @@ public class Main {
         System.out.println(account3);
         System.out.println(account4);
         System.out.println(account5);
+
     }
 }
