@@ -3,7 +3,7 @@
 
 ### Блок Основы ООП
 
-[1.1	Основы ООП]:https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/OOP
+[1.1	Основы ООП](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/OOP)
 
 
 ### Блок 4. InMemory хранение данных — коллекции
