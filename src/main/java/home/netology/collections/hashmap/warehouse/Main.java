@@ -12,6 +12,7 @@ public class Main {
         ArrayList<Storage> storages = initStorages();
 
         while (true) {
+
             menu();
             String point = scanner.nextLine();
             if (point.isEmpty()) {
