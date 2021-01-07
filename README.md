@@ -14,4 +14,6 @@
 
 [2.3	Коллекция HashMap и HashSet](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/collections/hashmap)
 
-[2.4	Коллекции Treemap и TreeSet](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/collections/treeset/wishlist)
+[2.4	Коллекции TreeSet](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/collections/treeset)
+
+[2.5	Коллекции Treemap](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/collections/treemap)
