@@ -3,7 +3,6 @@ package main.java.home.netology.collections.treeset.wishlist.wishcomparator;
 import main.java.home.netology.collections.treeset.wishlist.Wish;
 
 import java.util.Comparator;
-import java.util.Locale;
 
 public class WishComparatorByName implements Comparator<Wish> {
     private SortType sortType;
