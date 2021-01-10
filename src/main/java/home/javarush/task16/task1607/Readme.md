@@ -1,4 +1,3 @@
-taskKey="com.javarush.task.pro.task16.task1607"\n\nОсвоение нового API
 
 В классе Solution реализуй 4 метода:
 - метод nowExample должен вернуть текущую дату;

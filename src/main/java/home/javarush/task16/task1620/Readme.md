@@ -1,4 +1,3 @@
-taskKey="com.javarush.task.pro.task16.task1620"\n\nЕще один простой шаблон
 
 В методе main выведи на экран переменную zonedDateTime в таком виде:
 4 9.3.19 06:03:07.319180500 Europe/Kiev

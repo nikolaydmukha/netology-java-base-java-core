@@ -1,4 +1,3 @@
-taskKey="com.javarush.task.pro.task16.task1617"\n\nВременная глобализация
 
 В методе main присвой значение переменной globalTime, используя переменные localTime и zoneId.
 

@@ -1,4 +1,3 @@
-taskKey="com.javarush.task.pro.task16.task1612"\n\nСинтезируем LocalDateTime
 
 В методе convert нужно преобразовать Map в Set.
 Принцип преобразования:

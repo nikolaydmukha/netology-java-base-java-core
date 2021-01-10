@@ -1,4 +1,3 @@
-taskKey="com.javarush.task.pro.task16.task1608"\n\nПросто день недели
 
 Реализуй метод getDayOfWeek(LocalDate date), чтобы он возвращал русское название дня недели аргумента date.
 Воспользуйся методами getDayOfWeek и getDisplayName.

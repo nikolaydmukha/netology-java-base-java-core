@@ -1,4 +1,3 @@
-taskKey="com.javarush.task.pro.task15.task1512"\n\nЗадом наперед
 
 Метод printSomething(String) выводит в поле stream переданную строку. Необходимо развернуть вывод
 в обратном порядке с помощью PrintStream:

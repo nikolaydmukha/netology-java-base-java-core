@@ -1,4 +1,3 @@
-taskKey="com.javarush.task.pro.task16.task1614"\n\nКонец времен
 
 В классе Solution реализуй три метода:
 - в методе getMaxFromMilliseconds верни максимальный Instant, который можно получить с помощью метода ofEpochMilli(long milliseconds);

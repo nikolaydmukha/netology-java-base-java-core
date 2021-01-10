@@ -1,4 +1,3 @@
-taskKey="com.javarush.task.pro.task16.task1615"\n\nОй как много методов!
 
 В классе Solution реализуй восемь методов:
 - в методе plusMinutes нужно увеличить параметр instant на minutes минут и вернуть результат;

@@ -1,4 +1,3 @@
-taskKey="com.javarush.task.pro.task16.task1605"\n\nКарманный телепорт
 
 В классе Solution константа INVENTION_DAY содержит дату изобретения нового
 популярного гаджета &mdash; карманного телепорта.

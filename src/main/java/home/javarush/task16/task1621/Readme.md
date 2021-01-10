@@ -1,4 +1,3 @@
-taskKey="com.javarush.task.pro.task16.task1621"\n\nНапиши шаблон
 
 Инициализируй статическую переменную dateTimeFormatter. Подумай, какой шаблон ей задать, чтобы можно было распарсить строку timeString.
 В методе main создай объект LocalDateTime, используя строку timeString и твой шаблон dateTimeFormatter.
