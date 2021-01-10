@@ -1,0 +1,10 @@
+
+В классе Solution есть метод getShapeNameByCountOfCorners(int), который возвращает название многоугольника в зависимости от количества углов.
+Твоя задача &mdash; переписать метод, используя только switch-expression.
+
+
+Требования:
+1.	Результат работы метода getShapeNameByCountOfCorners(int) не должен измениться.
+2.	В методе getShapeNameByCountOfCorners(int) должен использоваться только switch-expression.
+
+
