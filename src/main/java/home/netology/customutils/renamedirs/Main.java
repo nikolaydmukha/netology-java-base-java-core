@@ -21,8 +21,10 @@ public class Main {
                         for (Path subPath : streamSubDirs) {
                             System.out.println("Current Directory " + subPath);
                             for (final File f : subPath.toFile().listFiles()) {
-                                if (f.isFile() && f.getName().equals("myTempFile.txt")) {
-                                    renameFile(f.getName(), subPath);
+                                if (f.isFile() && f.getName().equals("Условие.jrtc")) {
+                                    removeTopLine(f.getName(), subPath);
+//                                    renameFile(f.getName(), subPath);
+                                    f.delete();
 //                                } else if (f.isFile() && f.getName().equals("Readme.md")){
 //                                    removeTopLine(f.getName(), subPath);
 //                                }
@@ -50,9 +52,9 @@ public class Main {
         }
     }
 
-    private static void removeTopLine (String readmeFile, Path path) throws IOException {
-        File inputFile = new File(path.toString() + "\\" + readmeFile);
-        File tempFile = new File(path.toString() + "\\" + "myTempFile.txt");
+    private static void removeTopLine (String fileName, Path path) throws IOException {
+        File inputFile = new File(path.toString() + "\\" + fileName);
+        File tempFile = new File(path.toString() + "\\" + "Readme.md");
 
         BufferedReader reader = new BufferedReader(new FileReader(inputFile));
         BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile));
