@@ -7,12 +7,12 @@
 
 ### Блок хранение данных — коллекции
 
-[2.1	Коллекции List](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/collections/javabase/listcollection)
+[2.1	Коллекции List](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javabase/collections/listcollection)
 
-[2.2	Коллекции Queue](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/collections/javabase/queuecollection)
+[2.2	Коллекции Queue](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javabase/collections/queuecollection)
 
-[2.3	Коллекция HashMap и HashSet](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javabase/collections/hashmap)
+[2.3	Коллекция HashMap и HashSet](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/javabase/netology/collections/hashmap)
 
-[2.4	Коллекции TreeSet](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/collections/javabase/treeset)
+[2.4	Коллекции TreeSet](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javabase/collections/treeset)
 
-[2.5	Коллекции Treemap](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/collections/javabase/treemap)
+[2.5	Коллекции Treemap](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javabase/collections/treemap)
