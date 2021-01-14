@@ -22,3 +22,5 @@
 ### Блок 1. Stream API, работа с файлами и сборка проектов
 
 [1.1	Лямбда-выражения и функциональные интерфейсы](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/lambda)
+
+[1.2	Stream API](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/streams)
