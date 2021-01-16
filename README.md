@@ -24,3 +24,5 @@
 [1.1	Лямбда-выражения и функциональные интерфейсы](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/lambda)
 
 [1.2	Stream API](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/streams)
+
+[1.3	Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/files)
