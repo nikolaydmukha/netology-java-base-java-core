@@ -1,4 +1,4 @@
-package home.netology.javacore.files.save;
+package home.netology.javacore.files.serialization;
 
 import org.apache.commons.io.FilenameUtils;
 

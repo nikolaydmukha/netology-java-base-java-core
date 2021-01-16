@@ -1,4 +1,4 @@
-package home.netology.javacore.files.save;
+package home.netology.javacore.files.serialization;
 
 import java.io.Serializable;
 
@@ -24,6 +24,6 @@ public class GameProgress implements Serializable {
                 ", weapons=" + weapons +
                 ", lvl=" + lvl +
                 ", distance=" + distance +
-                '}';
+                '}' + "\n";
     }
 }

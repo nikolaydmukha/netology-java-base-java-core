@@ -1,0 +1,12 @@
+games dir created
+src dir created
+src/main dir created
+src/test dir created
+/gamesdir/src/main/Main.java created
+/gamesdir/src/main/Utils.java created
+res dir created
+drawable dir created
+vectors dir created
+iconcs dir created
+savegames dir created
+tmp dir created/gamesdir/tmp/temp.txt created
