@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.OOP.inheritance.cars;
+package home.netology.javabase.OOP.inheritance.cars;
 
 public class VehicleType {
     protected String attribute;

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task11.task1110;
+package home.javarush.javaCore.task11.task1110;
 
 /* 
 Не забываем инкапсулировать

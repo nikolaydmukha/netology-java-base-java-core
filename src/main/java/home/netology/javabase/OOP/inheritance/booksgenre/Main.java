@@ -1,13 +1,13 @@
-package main.java.home.netology.javabase.OOP.inheritance.booksgenre;
+package home.netology.javabase.OOP.inheritance.booksgenre;
 
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookcontent.DetectiveGenre;
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookcontent.FantasticGenre;
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookcontent.ProfessionalGenre;
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookform.ProseGenre;
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookform.VerseGenre;
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookvolume.NarrativeGenre;
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookvolume.NovelGenre;
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookvolume.StoryGenre;
+import home.netology.javabase.OOP.inheritance.booksgenre.bookcontent.DetectiveGenre;
+import home.netology.javabase.OOP.inheritance.booksgenre.bookcontent.FantasticGenre;
+import home.netology.javabase.OOP.inheritance.booksgenre.bookcontent.ProfessionalGenre;
+import home.netology.javabase.OOP.inheritance.booksgenre.bookform.ProseGenre;
+import home.netology.javabase.OOP.inheritance.booksgenre.bookform.VerseGenre;
+import home.netology.javabase.OOP.inheritance.booksgenre.bookvolume.NarrativeGenre;
+import home.netology.javabase.OOP.inheritance.booksgenre.bookvolume.NovelGenre;
+import home.netology.javabase.OOP.inheritance.booksgenre.bookvolume.StoryGenre;
 
 public class Main {
     public static void main(String[] args) {

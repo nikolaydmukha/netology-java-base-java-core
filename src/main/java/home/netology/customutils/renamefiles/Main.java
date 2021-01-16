@@ -1,4 +1,4 @@
-package main.java.home.netology.customutils.renamefiles;
+package home.netology.customutils.renamefiles;
 
 import java.io.*;
 import java.nio.file.DirectoryStream;

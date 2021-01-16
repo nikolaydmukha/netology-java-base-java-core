@@ -1,4 +1,4 @@
-package main.java.home.javamentor.poweroftwo;
+package home.javamentor.poweroftwo;
 
 public class PowerOfTwo {
     public static void main(String[] args) {

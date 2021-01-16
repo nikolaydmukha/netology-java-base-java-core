@@ -1,9 +1,9 @@
-package main.java.home.netology.javabase.abstract_interface.engineerscv.professions;
+package home.netology.javabase.abstract_interface.engineerscv.professions;
 
-import main.java.home.netology.javabase.abstract_interface.engineerscv.Engineer;
-import main.java.home.netology.javabase.abstract_interface.engineerscv.skills.ICSS;
-import main.java.home.netology.javabase.abstract_interface.engineerscv.skills.IDB;
-import main.java.home.netology.javabase.abstract_interface.engineerscv.skills.IGIT;
+import home.netology.javabase.abstract_interface.engineerscv.Engineer;
+import home.netology.javabase.abstract_interface.engineerscv.skills.ICSS;
+import home.netology.javabase.abstract_interface.engineerscv.skills.IDB;
+import home.netology.javabase.abstract_interface.engineerscv.skills.IGIT;
 
 public class FullStackDesigner extends Engineer implements ICSS, IDB, IGIT {
     public FullStackDesigner(String name, int age, String country) {

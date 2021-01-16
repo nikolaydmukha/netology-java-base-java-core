@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.lambda.converter;
+package home.netology.javacore.lambda.converter;
 
 import java.util.Formatter;
 import java.util.function.Consumer;

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task18.task1815;
+package home.javarush.javaSyntax.task18.task1815;
 
 public class Account {
     private String name;

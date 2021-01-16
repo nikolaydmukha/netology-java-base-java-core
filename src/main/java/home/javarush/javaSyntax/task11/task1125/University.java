@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1125;
+package home.javarush.javaSyntax.task11.task1125;
 /*
 Метод main должен добавлять двух студентов в массив и выводить их в консоль с помощью метода printStudents.
 Сделай исправления в методе main, чтобы программа заработала.

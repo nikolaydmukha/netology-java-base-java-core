@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.abstract_interface.banking;
+package home.netology.javabase.abstract_interface.banking;
 
 public abstract class Account {
     public abstract void pay(int amount);

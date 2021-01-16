@@ -1,7 +1,7 @@
-package main.java.home.netology.javabase.exceptions.urlvalidator;
+package home.netology.javabase.exceptions.urlvalidator;
 
-import main.java.home.netology.javabase.exceptions.urlvalidator.ex.NotValidUrlException;
-import main.java.home.netology.javabase.exceptions.urlvalidator.ex.UnsupportedSchemaException;
+import home.netology.javabase.exceptions.urlvalidator.ex.NotValidUrlException;
+import home.netology.javabase.exceptions.urlvalidator.ex.UnsupportedSchemaException;
 
 public class UrlUtils {
 

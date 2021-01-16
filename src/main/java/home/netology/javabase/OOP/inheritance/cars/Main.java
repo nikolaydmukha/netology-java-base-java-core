@@ -1,12 +1,12 @@
-package main.java.home.netology.javabase.OOP.inheritance.cars;
+package home.netology.javabase.OOP.inheritance.cars;
 
-import main.java.home.netology.javabase.OOP.inheritance.cars.bodytype.Pickup;
-import main.java.home.netology.javabase.OOP.inheritance.cars.bodytype.Sedan;
-import main.java.home.netology.javabase.OOP.inheritance.cars.fueltype.Diesel;
-import main.java.home.netology.javabase.OOP.inheritance.cars.fueltype.Petrol;
-import main.java.home.netology.javabase.OOP.inheritance.cars.purposetype.Car;
-import main.java.home.netology.javabase.OOP.inheritance.cars.purposetype.Passenger;
-import main.java.home.netology.javabase.OOP.inheritance.cars.purposetype.Truck;
+import home.netology.javabase.OOP.inheritance.cars.bodytype.Pickup;
+import home.netology.javabase.OOP.inheritance.cars.bodytype.Sedan;
+import home.netology.javabase.OOP.inheritance.cars.fueltype.Diesel;
+import home.netology.javabase.OOP.inheritance.cars.fueltype.Petrol;
+import home.netology.javabase.OOP.inheritance.cars.purposetype.Car;
+import home.netology.javabase.OOP.inheritance.cars.purposetype.Passenger;
+import home.netology.javabase.OOP.inheritance.cars.purposetype.Truck;
 
 public class Main {
     public static void main(String[] args) {

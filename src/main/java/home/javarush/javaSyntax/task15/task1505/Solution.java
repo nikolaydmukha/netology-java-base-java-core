@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task15.task1505;
+package home.javarush.javaSyntax.task15.task1505;
 
 import java.io.InputStream;
 import java.io.OutputStream;

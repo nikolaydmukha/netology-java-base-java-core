@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.streams.population;
+package home.netology.javacore.streams.population;
 
 import java.util.*;
 import java.util.stream.Collectors;

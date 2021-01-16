@@ -1,4 +1,4 @@
-package main.java.home.javamentor.oop.ooprobot;
+package home.javamentor.oop.ooprobot;
 
 public class Robot {
 

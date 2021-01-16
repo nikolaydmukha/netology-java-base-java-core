@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task17.task1707;
+package home.javarush.javaSyntax.task17.task1707;
 
 public class Cat extends Pet {
     public static final String CAT = "Я не люблю людей.";

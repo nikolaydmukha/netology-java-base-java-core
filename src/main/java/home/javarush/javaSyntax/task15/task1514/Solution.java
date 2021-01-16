@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task15.task1514;
+package home.javarush.javaSyntax.task15.task1514;
 
 import java.nio.file.Path;
 import java.util.Scanner;

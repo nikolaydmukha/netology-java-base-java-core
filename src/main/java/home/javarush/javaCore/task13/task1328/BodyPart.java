@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task13.task1328;
+package home.javarush.javaCore.task13.task1328;
 
 public final class BodyPart {
     final static BodyPart LEG = new BodyPart("нога");

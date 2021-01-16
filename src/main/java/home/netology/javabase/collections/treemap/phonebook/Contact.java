@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.treemap.phonebook;
+package home.netology.javabase.collections.treemap.phonebook;
 
 public class Contact implements Comparable {
     private String name;

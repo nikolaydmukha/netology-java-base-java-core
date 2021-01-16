@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.streams.nunbers;
+package home.netology.javacore.streams.nunbers;
 
 import java.util.ArrayList;
 import java.util.Comparator;

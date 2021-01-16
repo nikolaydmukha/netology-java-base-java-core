@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.streams.sometasks.task6;
+package home.netology.javacore.streams.sometasks.task6;
 
 import java.util.Objects;
 

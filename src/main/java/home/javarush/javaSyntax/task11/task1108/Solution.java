@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1108;
+package home.javarush.javaSyntax.task11.task1108;
 
 /*
 Давай проведем рефакторинг кода: вынесем отдельно утильные методы.

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1107;
+package home.javarush.javaSyntax.task11.task1107;
 /*
 Двигатель — сложный механизм, для описания которого недостаточно обычной переменной.
 В классе Car создай внутренний класс (inner class) Engine. В классе Engine создай boolean поле isRunning, которое

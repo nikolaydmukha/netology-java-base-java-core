@@ -1,8 +1,8 @@
-package main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype;
+package home.netology.javabase.collections.hashmap.transportbase.transportеtype;
 
 
-import main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.BodyTypes;
-import main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.EngineTypes;
+import home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.BodyTypes;
+import home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.EngineTypes;
 
 public class BaseTransport {
     protected String number;

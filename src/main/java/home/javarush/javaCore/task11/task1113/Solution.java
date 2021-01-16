@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task11.task1113;
+package home.javarush.javaCore.task11.task1113;
 
 /* 
 Играем в Дарвина

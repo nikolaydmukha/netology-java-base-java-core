@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1209;
+package home.javarush.javaCore.task12.task1209;
 
 /* 
 Три метода и минимум

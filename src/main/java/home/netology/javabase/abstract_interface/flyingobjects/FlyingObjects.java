@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.abstract_interface.flyingobjects;
+package home.netology.javabase.abstract_interface.flyingobjects;
 
 public abstract class FlyingObjects {
 

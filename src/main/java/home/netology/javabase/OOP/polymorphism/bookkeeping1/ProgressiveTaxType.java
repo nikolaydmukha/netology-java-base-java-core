@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.OOP.polymorphism.bookkeeping1;
+package home.netology.javabase.OOP.polymorphism.bookkeeping1;
 
 public class ProgressiveTaxType extends TaxType {
 

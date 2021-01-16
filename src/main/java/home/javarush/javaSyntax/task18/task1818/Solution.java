@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task18.task1818;
+package home.javarush.javaSyntax.task18.task1818;
 
 import java.time.LocalDate;
 import java.time.Month;

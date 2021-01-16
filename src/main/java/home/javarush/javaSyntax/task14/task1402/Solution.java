@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task14.task1402;
+package home.javarush.javaSyntax.task14.task1402;
 
 import java.util.Arrays;
 import java.util.List;

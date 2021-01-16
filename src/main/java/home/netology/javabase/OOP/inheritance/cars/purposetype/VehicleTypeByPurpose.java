@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.OOP.inheritance.cars.purposetype;
+package home.netology.javabase.OOP.inheritance.cars.purposetype;
 
-import main.java.home.netology.javabase.OOP.inheritance.cars.VehicleType;
+import home.netology.javabase.OOP.inheritance.cars.VehicleType;
 
 public class VehicleTypeByPurpose extends VehicleType {
 

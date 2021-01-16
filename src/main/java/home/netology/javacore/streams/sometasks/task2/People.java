@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.streams.sometasks.task2;
+package home.netology.javacore.streams.sometasks.task2;
 
 public class People {
     private final String name;

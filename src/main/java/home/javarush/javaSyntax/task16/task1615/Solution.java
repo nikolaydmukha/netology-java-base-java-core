@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task16.task1615;
+package home.javarush.javaSyntax.task16.task1615;
 
 import java.time.Instant;
 

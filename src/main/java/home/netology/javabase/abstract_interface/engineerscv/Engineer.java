@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.abstract_interface.engineerscv;
+package home.netology.javabase.abstract_interface.engineerscv;
 
 public class Engineer {
     private String name;

@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.features;
+package home.netology.javabase.collections.hashmap.transportbase.transportеtype.features;
 
 public enum EngineTypes {
     DIESEL,

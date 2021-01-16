@@ -1,7 +1,7 @@
-package main.java.home.netology.javabase.collections.treemap.phonebook;
+package home.netology.javabase.collections.treemap.phonebook;
 
-import main.java.home.netology.javabase.collections.treemap.phonebook.notes.MissedCallsBook;
-import main.java.home.netology.javabase.collections.treemap.phonebook.notes.PhoneBook;
+import home.netology.javabase.collections.treemap.phonebook.notes.MissedCallsBook;
+import home.netology.javabase.collections.treemap.phonebook.notes.PhoneBook;
 
 import java.time.DateTimeException;
 import java.time.LocalDateTime;

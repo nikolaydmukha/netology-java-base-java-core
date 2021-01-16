@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task13.task1313;
+package home.javarush.javaCore.task13.task1313;
 
 import java.awt.*;
 

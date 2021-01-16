@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task14.task1410;
+package home.javarush.javaSyntax.task14.task1410;
 
 import java.io.FileNotFoundException;
 import java.nio.file.FileSystemException;

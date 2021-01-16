@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task15.task1504;
+package home.javarush.javaSyntax.task15.task1504;
 
 import java.io.IOException;
 import java.io.InputStream;

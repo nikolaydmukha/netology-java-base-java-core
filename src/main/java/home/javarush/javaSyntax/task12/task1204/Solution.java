@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task12.task1204;
+package home.javarush.javaSyntax.task12.task1204;
 
 public class Solution {
     public static Integer balance = Integer.MAX_VALUE;

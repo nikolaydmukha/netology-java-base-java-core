@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1419;
+package home.javarush.javaCore.task14.task1419;
 
 import java.io.IOException;
 import java.io.InterruptedIOException;

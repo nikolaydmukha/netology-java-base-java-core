@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task15.task1523;
+package home.javarush.javaSyntax.task15.task1523;
 
 import java.io.*;
 import java.net.URL;

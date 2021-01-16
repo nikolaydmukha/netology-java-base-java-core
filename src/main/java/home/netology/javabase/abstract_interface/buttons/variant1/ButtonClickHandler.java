@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.abstract_interface.buttons.variant1;
+package home.netology.javabase.abstract_interface.buttons.variant1;
 
 public class ButtonClickHandler implements EventHandler{
     @Override

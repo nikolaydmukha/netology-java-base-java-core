@@ -1,4 +1,4 @@
-package main.java.home.javamentor.determinegroup;
+package home.javamentor.determinegroup;
 
 public class DetermineGroup {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task11.task1112;
+package home.javarush.javaCore.task11.task1112;
 
 /* 
 iPhone и Apple

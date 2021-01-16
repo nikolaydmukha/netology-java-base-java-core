@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task17.task1707;
+package home.javarush.javaSyntax.task17.task1707;
 
 public class Dog extends Pet {
     public static final String DOG = "Я люблю людей.";

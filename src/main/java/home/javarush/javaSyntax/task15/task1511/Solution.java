@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task15.task1511;
+package home.javarush.javaSyntax.task15.task1511;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

@@ -1,10 +1,10 @@
-package main.java.home.javarush.javaCore.task14.task1406;
+package home.javarush.javaCore.task14.task1406;
 
 /* 
 Без ошибок
 */
 
-import  main.java.home.javarush.javaCore.task14.task1406.Solution.Mouse;
+import  home.javarush.javaCore.task14.task1406.Solution.Mouse;
 
 public class Solution {
     public static void main(String[] args) {

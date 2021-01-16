@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task13.task1318;
+package home.javarush.javaCore.task13.task1318;
 
 import java.io.*;
 import java.util.Scanner;

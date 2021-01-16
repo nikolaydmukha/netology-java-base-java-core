@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task12.task1205;
+package home.javarush.javaSyntax.task12.task1205;
 
 /*
 Реализуй метод divide(double a, double b) так, чтобы в консоли выводился результат деления числа a на число b.

@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.abstract_interface.flyingobjects.aircraft;
+package home.netology.javabase.abstract_interface.flyingobjects.aircraft;
 
-import main.java.home.netology.javabase.abstract_interface.flyingobjects.interfaces.HorizontalTakeoff;
+import home.netology.javabase.abstract_interface.flyingobjects.interfaces.HorizontalTakeoff;
 
 public class Boeing777 extends AirCraft implements HorizontalTakeoff {
 

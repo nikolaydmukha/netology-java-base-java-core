@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.abstract_interface.flyingobjects;
+package home.netology.javabase.abstract_interface.flyingobjects;
 
-import main.java.home.netology.javabase.abstract_interface.flyingobjects.aircraft.AirCraft;
+import home.netology.javabase.abstract_interface.flyingobjects.aircraft.AirCraft;
 
 public class ManageFlyingObjects {
 

@@ -1,7 +1,7 @@
-package main.java.home.netology.javabase.collections.treeset.headhunter;
+package home.netology.javabase.collections.treeset.headhunter;
 
-import main.java.home.netology.javabase.collections.treeset.headhunter.comparators.InterviewResultComparator;
-import main.java.home.netology.javabase.collections.treeset.headhunter.comparators.RelevanceComparator;
+import home.netology.javabase.collections.treeset.headhunter.comparators.InterviewResultComparator;
+import home.netology.javabase.collections.treeset.headhunter.comparators.RelevanceComparator;
 
 import java.util.ArrayList;
 import java.util.Arrays;

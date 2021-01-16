@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.collections.treeset.headhunter.comparators;
+package home.netology.javabase.collections.treeset.headhunter.comparators;
 
-import main.java.home.netology.javabase.collections.treeset.headhunter.Candidate;
+import home.netology.javabase.collections.treeset.headhunter.Candidate;
 
 import java.util.Comparator;
 

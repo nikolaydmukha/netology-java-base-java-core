@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task12.task1206;
+package home.javarush.javaSyntax.task12.task1206;
 
 /*
 Реализуй методы countDigits(String), countLetters(String), countSpaces(String), которые должны возвращать количество

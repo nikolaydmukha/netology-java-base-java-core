@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.exceptions.urlvalidator;
+package home.netology.javabase.exceptions.urlvalidator;
 
 import java.util.Scanner;
 

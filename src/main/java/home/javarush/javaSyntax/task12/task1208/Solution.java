@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task12.task1208;
+package home.javarush.javaSyntax.task12.task1208;
 /*Метод compare(Character, Character) принимает два символа, выводит в консоли результат их сравнения.
     Реализуй метод compare(Character, Character), который должен правильно сравнивать символы.
         Если код первого символа больше второго, вывести "больше".

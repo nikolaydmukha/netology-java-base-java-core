@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.classstructure.library.user.account;
+package home.netology.javabase.classstructure.library.user.account;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

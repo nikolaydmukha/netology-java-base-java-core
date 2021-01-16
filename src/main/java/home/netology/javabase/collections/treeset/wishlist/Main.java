@@ -1,8 +1,8 @@
-package main.java.home.netology.javabase.collections.treeset.wishlist;
+package home.netology.javabase.collections.treeset.wishlist;
 
-import main.java.home.netology.javabase.collections.treeset.wishlist.wishcomparator.SortType;
-import main.java.home.netology.javabase.collections.treeset.wishlist.wishcomparator.WishComparatorByName;
-import main.java.home.netology.javabase.collections.treeset.wishlist.wishcomparator.WishComparatorByPrice;
+import home.netology.javabase.collections.treeset.wishlist.wishcomparator.SortType;
+import home.netology.javabase.collections.treeset.wishlist.wishcomparator.WishComparatorByName;
+import home.netology.javabase.collections.treeset.wishlist.wishcomparator.WishComparatorByPrice;
 
 import java.util.*;
 

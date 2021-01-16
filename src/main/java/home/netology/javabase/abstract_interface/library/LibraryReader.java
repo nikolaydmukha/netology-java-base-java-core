@@ -1,7 +1,7 @@
-package main.java.home.netology.javabase.abstract_interface.library;
+package home.netology.javabase.abstract_interface.library;
 
-import main.java.home.netology.javabase.abstract_interface.library.bookutils.Utils;
-import main.java.home.netology.javabase.abstract_interface.library.interfaces.IReader;
+import home.netology.javabase.abstract_interface.library.bookutils.Utils;
+import home.netology.javabase.abstract_interface.library.interfaces.IReader;
 
 public class LibraryReader {
     public String userName;

@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.OOP.polymorphism.bookkeeping1;
+package home.netology.javabase.OOP.polymorphism.bookkeeping1;
 
 public class Main {
     public static void main(String[] args) {

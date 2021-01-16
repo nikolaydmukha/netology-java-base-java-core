@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.exceptions.messagevalidator;
+package home.netology.javabase.exceptions.messagevalidator;
 
 public abstract class Event {
     protected String title;

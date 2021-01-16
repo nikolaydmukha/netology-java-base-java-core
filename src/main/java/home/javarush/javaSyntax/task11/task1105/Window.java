@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1105;
+package home.javarush.javaSyntax.task11.task1105;
 
 public class Window {
     private int height = 2;

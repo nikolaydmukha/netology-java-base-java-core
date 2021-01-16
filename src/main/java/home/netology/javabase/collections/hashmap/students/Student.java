@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.hashmap.students;
+package home.netology.javabase.collections.hashmap.students;
 
 public class Student {
     private String fio;

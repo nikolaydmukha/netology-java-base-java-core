@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1106;
+package home.javarush.javaSyntax.task11.task1106;
 
 public class Main {
     public static void main(String[] args) {

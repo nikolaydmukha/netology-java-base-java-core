@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task16.task1601;
+package home.javarush.javaSyntax.task16.task1601;
 
 import java.util.Date;
 

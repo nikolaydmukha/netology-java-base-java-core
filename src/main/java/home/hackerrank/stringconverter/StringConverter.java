@@ -1,4 +1,4 @@
-package main.java.home.hackerrank.stringconverter;
+package home.hackerrank.stringconverter;
 
 public class StringConverter {
     /*

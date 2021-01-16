@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.OOP.polymorphism.music;
+package home.netology.javabase.OOP.polymorphism.music;
 
 public class Guitar extends Instrument {
     @Override

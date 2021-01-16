@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task12.task1212;
+package home.javarush.javaSyntax.task12.task1212;
 
 /*
 ArrayList — это список, который хранит динамически расширяемый массив элементов. Сейчас мы будем реализовывать свою

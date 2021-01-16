@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.listcollection.email;
+package home.netology.javabase.collections.listcollection.email;
 
 public class Mail {
     private String email;

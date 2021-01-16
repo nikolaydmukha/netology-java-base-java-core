@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task11.task1123;
+package home.javarush.javaCore.task11.task1123;
 
 import java.util.Arrays;
 

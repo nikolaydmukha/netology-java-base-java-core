@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookform;
+package home.netology.javabase.OOP.inheritance.booksgenre.bookform;
 
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.Genre;
+import home.netology.javabase.OOP.inheritance.booksgenre.Genre;
 
 public class GenreByForm extends Genre {
     public GenreByForm(String attribute) {

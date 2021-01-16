@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.abstract_interface.flyingobjects.rocket;
+package home.netology.javabase.abstract_interface.flyingobjects.rocket;
 
-import main.java.home.netology.javabase.abstract_interface.flyingobjects.interfaces.VerticalTakeoff;
+import home.netology.javabase.abstract_interface.flyingobjects.interfaces.VerticalTakeoff;
 
 public class RocketSalut extends Rocket implements VerticalTakeoff {
 

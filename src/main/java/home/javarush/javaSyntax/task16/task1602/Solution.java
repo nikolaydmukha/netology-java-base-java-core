@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task16.task1602;
+package home.javarush.javaSyntax.task16.task1602;
 
 import java.util.ArrayList;
 import java.util.Date;

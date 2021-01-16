@@ -1,7 +1,7 @@
-package main.java.home.netology.javabase.exceptions.uservalidator;
+package home.netology.javabase.exceptions.uservalidator;
 
-import main.java.home.netology.javabase.exceptions.uservalidator.ex.AccessDeniedException;
-import main.java.home.netology.javabase.exceptions.uservalidator.ex.UserNotFoundException;
+import home.netology.javabase.exceptions.uservalidator.ex.AccessDeniedException;
+import home.netology.javabase.exceptions.uservalidator.ex.UserNotFoundException;
 
 import java.util.Scanner;
 

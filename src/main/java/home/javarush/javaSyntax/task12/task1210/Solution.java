@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task12.task1210;
+package home.javarush.javaSyntax.task12.task1210;
 /*
 Ты видишь рабочую программу, в которой массив int[] numbers заполняется числами в методе init(). Затем в методе reverse()
 происходит перестановка чисел в обратном порядке.

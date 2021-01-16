@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.abstract_interface.engineerscv.skills;
+package home.netology.javabase.abstract_interface.engineerscv.skills;
 
 public interface IGIT {
     default void gitPush() {

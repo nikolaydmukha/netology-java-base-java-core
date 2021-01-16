@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task16.task1618;
+package home.javarush.javaSyntax.task16.task1618;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;

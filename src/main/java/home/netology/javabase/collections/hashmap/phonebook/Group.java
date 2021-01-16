@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.hashmap.phonebook;
+package home.netology.javabase.collections.hashmap.phonebook;
 
 public enum Group {
     FRIEND,

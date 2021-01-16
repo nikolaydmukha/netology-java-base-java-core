@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task14.task1413;
+package home.javarush.javaSyntax.task14.task1413;
 
 import java.util.Map;
 import java.util.TreeMap;

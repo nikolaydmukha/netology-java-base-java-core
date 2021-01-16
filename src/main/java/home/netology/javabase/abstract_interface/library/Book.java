@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.abstract_interface.library;
+package home.netology.javabase.abstract_interface.library;
 
 public class Book {
     private String title;

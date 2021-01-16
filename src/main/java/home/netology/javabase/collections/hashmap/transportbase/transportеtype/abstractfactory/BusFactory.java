@@ -1,7 +1,7 @@
-package main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.abstractfactory;
+package home.netology.javabase.collections.hashmap.transportbase.transportеtype.abstractfactory;
 
-import main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.Bus;
-import main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.EngineTypes;
+import home.netology.javabase.collections.hashmap.transportbase.transportеtype.Bus;
+import home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.EngineTypes;
 
 public class BusFactory implements TransportFactory{
 

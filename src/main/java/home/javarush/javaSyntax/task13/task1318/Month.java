@@ -1,4 +1,4 @@
-package main.java.home.javarush.task1318;
+package home.javarush.task1318;
 
 public enum Month {
     JANUARY,

@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.OOP.inheritance.booksgenre;
+package home.netology.javabase.OOP.inheritance.booksgenre;
 
 public class BookService {
     //bookList - список книг, genre - жанр для фильтрации (поиска соответствия)

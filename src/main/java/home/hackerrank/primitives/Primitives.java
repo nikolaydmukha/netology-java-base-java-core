@@ -1,4 +1,4 @@
-package main.java.home.hackerrank.primitives;
+package home.hackerrank.primitives;
 
 import java.util.Scanner;
 

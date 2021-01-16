@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task18.task1820;
+package home.javarush.javaSyntax.task18.task1820;
 
 import java.util.Optional;
 import java.util.stream.Stream;

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1410;
+package home.javarush.javaCore.task14.task1410;
 
 public class BubblyWine extends Wine{
     public String getHolidayName(){

@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.exceptions.uservalidator.ex;
+package home.netology.javabase.exceptions.uservalidator.ex;
 
 public class UserNotFoundException extends Exception {
 

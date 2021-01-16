@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.abstract_interface.flyingobjects.helicopter;
+package home.netology.javabase.abstract_interface.flyingobjects.helicopter;
 
-import main.java.home.netology.javabase.abstract_interface.flyingobjects.interfaces.VerticalTakeoff;
+import home.netology.javabase.abstract_interface.flyingobjects.interfaces.VerticalTakeoff;
 
 public class DarkShark extends Helicopter implements VerticalTakeoff {
 

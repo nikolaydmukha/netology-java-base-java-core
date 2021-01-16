@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task13.task11313_LinkedList;
+package home.javarush.javaSyntax.task13.task11313_LinkedList;
 
 public class Solution {
 

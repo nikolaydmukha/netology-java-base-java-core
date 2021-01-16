@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task13.task1307;
+package home.javarush.javaCore.task13.task1307;
 
 /* 
 Параметризованый интерфейс

@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.enumcustom;
+package home.netology.javabase.enumcustom;
 
 public class Main {
     public static void main(String[] args) {

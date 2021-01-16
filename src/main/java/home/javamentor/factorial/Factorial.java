@@ -1,4 +1,4 @@
-package main.java.home.javamentor.factorial;
+package home.javamentor.factorial;
 
 import java.math.BigInteger;
 

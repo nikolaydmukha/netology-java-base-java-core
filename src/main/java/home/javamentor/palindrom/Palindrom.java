@@ -1,4 +1,4 @@
-package main.java.home.javamentor.palindrom;
+package home.javamentor.palindrom;
 
 public class Palindrom {
     public static void main(String[] args) {

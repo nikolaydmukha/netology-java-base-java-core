@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1416;
+package home.javarush.javaCore.task14.task1416;
 
 /* 
 Исправление ошибок Ӏ Java Core: 4 уровень, 8 лекция

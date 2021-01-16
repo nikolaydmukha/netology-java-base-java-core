@@ -1,9 +1,9 @@
-package main.java.home.netology.javabase.collections.hashmap.transportbase;
+package home.netology.javabase.collections.hashmap.transportbase;
 
-import main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.BaseTransport;
-import main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.abstractfactory.*;
-import main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.BodyTypes;
-import main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.EngineTypes;
+import home.netology.javabase.collections.hashmap.transportbase.transportеtype.BaseTransport;
+import home.netology.javabase.collections.hashmap.transportbase.transportеtype.abstractfactory.*;
+import home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.BodyTypes;
+import home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.EngineTypes;
 
 import java.util.ArrayList;
 import java.util.Arrays;

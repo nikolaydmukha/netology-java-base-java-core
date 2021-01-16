@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task12.task1215;
+package home.javarush.javaSyntax.task12.task1215;
 /*
 Задача простая: нужно разобрать пирамиду из бокалов, в чем нам поможет метод removeGlassesReverse. Этот метод должен
 снимать каждый ряд, начиная сверху (с конца списка). Тебе нужно реализовать этот метод.

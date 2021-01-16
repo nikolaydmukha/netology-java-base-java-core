@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.exceptions.uservalidator;
+package home.netology.javabase.exceptions.uservalidator;
 
 public class User {
     private String login;

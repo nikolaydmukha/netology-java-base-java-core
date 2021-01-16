@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task17.task1716;
+package home.javarush.javaSyntax.task17.task1716;
 
 public class Bus implements Vehicle{
 

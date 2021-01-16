@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.OOP.polymorphism.game.weapon;
+package home.netology.javabase.OOP.polymorphism.game.weapon;
 
 public class SVD extends Weapon {
 

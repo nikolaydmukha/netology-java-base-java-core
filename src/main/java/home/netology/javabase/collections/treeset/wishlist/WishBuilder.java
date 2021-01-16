@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.treeset.wishlist;
+package home.netology.javabase.collections.treeset.wishlist;
 
 public class WishBuilder {
     private Wish newWish;

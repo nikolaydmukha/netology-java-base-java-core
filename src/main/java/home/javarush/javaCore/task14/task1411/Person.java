@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1411;
+package home.javarush.javaCore.task14.task1411;
 
 public interface Person {
     class User implements Person {

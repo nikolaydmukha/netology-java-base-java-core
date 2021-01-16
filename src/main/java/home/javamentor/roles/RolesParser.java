@@ -1,4 +1,4 @@
-package main.java.home.javamentor.roles;
+package home.javamentor.roles;
 
 import java.util.ArrayList;
 

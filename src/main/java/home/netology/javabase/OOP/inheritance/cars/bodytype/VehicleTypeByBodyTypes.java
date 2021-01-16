@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.OOP.inheritance.cars.bodytype;
+package home.netology.javabase.OOP.inheritance.cars.bodytype;
 
-import main.java.home.netology.javabase.OOP.inheritance.cars.VehicleType;
+import home.netology.javabase.OOP.inheritance.cars.VehicleType;
 
 public class VehicleTypeByBodyTypes extends VehicleType {
 

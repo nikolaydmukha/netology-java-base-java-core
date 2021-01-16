@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task18.task1801;
+package home.javarush.javaSyntax.task18.task1801;
 
 import java.util.ArrayList;
 import java.util.Iterator;

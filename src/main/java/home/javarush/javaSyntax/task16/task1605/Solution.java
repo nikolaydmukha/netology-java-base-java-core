@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task16.task1605;
+package home.javarush.javaSyntax.task16.task1605;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;

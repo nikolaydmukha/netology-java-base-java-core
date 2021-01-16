@@ -1,9 +1,9 @@
-package main.java.home.netology.javabase.OOP.polymorphism.game;
+package home.netology.javabase.OOP.polymorphism.game;
 
-import main.java.home.netology.javabase.OOP.polymorphism.game.weapon.AK47;
-import main.java.home.netology.javabase.OOP.polymorphism.game.weapon.Kolt;
-import main.java.home.netology.javabase.OOP.polymorphism.game.weapon.Revolver;
-import main.java.home.netology.javabase.OOP.polymorphism.game.weapon.SVD;
+import home.netology.javabase.OOP.polymorphism.game.weapon.AK47;
+import home.netology.javabase.OOP.polymorphism.game.weapon.Kolt;
+import home.netology.javabase.OOP.polymorphism.game.weapon.Revolver;
+import home.netology.javabase.OOP.polymorphism.game.weapon.SVD;
 
 import java.util.Scanner;
 

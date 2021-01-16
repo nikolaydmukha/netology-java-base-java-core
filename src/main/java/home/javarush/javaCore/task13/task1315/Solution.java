@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task13.task1315;
+package home.javarush.javaCore.task13.task1315;
 
 /* 
 Том, Джерри и Спайк

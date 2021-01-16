@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task11.task1107;
+package home.javarush.javaCore.task11.task1107;
 
 /* 
 Наш кот слишком публичен!

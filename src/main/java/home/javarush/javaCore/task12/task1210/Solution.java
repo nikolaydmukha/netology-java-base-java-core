@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1210;
+package home.javarush.javaCore.task12.task1210;
 
 /* 
 Три метода и максимум

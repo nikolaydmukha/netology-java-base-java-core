@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task13.task1302;
+package home.javarush.javaSyntax.task13.task1302;
 
 import java.util.HashSet;
 

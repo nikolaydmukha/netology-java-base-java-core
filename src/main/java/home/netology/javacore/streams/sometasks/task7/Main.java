@@ -1,7 +1,7 @@
-package main.java.home.netology.javacore.streams.sometasks.task7;
+package home.netology.javacore.streams.sometasks.task7;
 
-import main.java.home.netology.javacore.streams.sometasks.task6.People;
-import main.java.home.netology.javacore.streams.sometasks.task6.Sex;
+import home.netology.javacore.streams.sometasks.task6.People;
+import home.netology.javacore.streams.sometasks.task6.Sex;
 
 import java.util.Arrays;
 import java.util.Collection;

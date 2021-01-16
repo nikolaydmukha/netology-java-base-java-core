@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.OOP.inheritance.cars.bodytype;
+package home.netology.javabase.OOP.inheritance.cars.bodytype;
 
-import main.java.home.netology.javabase.OOP.inheritance.cars.VehicleTypeEnum;
+import home.netology.javabase.OOP.inheritance.cars.VehicleTypeEnum;
 
 public class Pickup extends VehicleTypeByBodyTypes {
 

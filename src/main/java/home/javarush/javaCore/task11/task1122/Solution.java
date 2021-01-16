@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task11.task1122;
+package home.javarush.javaCore.task11.task1122;
 
 /* 
 Помощь шахматной школе

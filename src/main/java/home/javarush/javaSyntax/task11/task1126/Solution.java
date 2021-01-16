@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1126;
+package home.javarush.javaSyntax.task11.task1126;
 /*
 Метод main класса Solution создает объект класса Student с конкретным именем, но программа не компилируется.
 Тебе нужно исправить ошибку в классе Student, чтобы программа компилировалась, и при запуске в консоль выводилось имя студента.

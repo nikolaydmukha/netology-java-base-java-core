@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1421;
+package home.javarush.javaCore.task14.task1421;
 
 import java.text.SimpleDateFormat;
 

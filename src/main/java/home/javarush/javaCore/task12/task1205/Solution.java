@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1205;
+package home.javarush.javaCore.task12.task1205;
 
 /* 
 Определимся с животным

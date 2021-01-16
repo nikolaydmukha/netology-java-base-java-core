@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.enumcustom;
+package home.netology.javabase.enumcustom;
 
 public enum Teams {
     SPARTAK(6, 4, 0, 2),

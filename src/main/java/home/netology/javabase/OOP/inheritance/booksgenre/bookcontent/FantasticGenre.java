@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookcontent;
+package home.netology.javabase.OOP.inheritance.booksgenre.bookcontent;
 
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.GenreEnum;
+import home.netology.javabase.OOP.inheritance.booksgenre.GenreEnum;
 
 public class FantasticGenre extends GenreByContent {
 

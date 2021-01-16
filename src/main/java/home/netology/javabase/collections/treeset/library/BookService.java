@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.treeset.library;
+package home.netology.javabase.collections.treeset.library;
 
 import java.util.*;
 

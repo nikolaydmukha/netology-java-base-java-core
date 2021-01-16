@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1229;
+package home.javarush.javaCore.task12.task1229;
 
 /* 
 Родитель класса CTO

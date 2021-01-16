@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1105;
+package home.javarush.javaSyntax.task11.task1105;
 /*
 В классе Window есть метод changeSize, который должен менять размеры окна на значения, переданные в метод.
 Но если ты запустишь программу, то убедишься, что этот метод не работает. Тебе нужно исправить ошибки так, чтобы метод заработал.

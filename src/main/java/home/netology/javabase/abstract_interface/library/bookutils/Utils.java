@@ -1,7 +1,7 @@
-package main.java.home.netology.javabase.abstract_interface.library.bookutils;
+package home.netology.javabase.abstract_interface.library.bookutils;
 
-import main.java.home.netology.javabase.abstract_interface.library.Book;
-import main.java.home.netology.javabase.abstract_interface.library.BooksDataBase;
+import home.netology.javabase.abstract_interface.library.Book;
+import home.netology.javabase.abstract_interface.library.BooksDataBase;
 
 public class Utils {
     public static int getBookIdFromDB(Book book) {

@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.classstructure.filmmaker;
+package home.netology.javabase.classstructure.filmmaker;
 
 public class Main {
     public static void main(String[] args) {

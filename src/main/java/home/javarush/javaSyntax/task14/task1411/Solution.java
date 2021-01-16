@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task14.task1411;
+package home.javarush.javaSyntax.task14.task1411;
 
 import java.io.FileNotFoundException;
 import java.nio.file.FileSystemException;
@@ -8,7 +8,7 @@ public class Solution {
     public static final String FAILED_TO_READ = "Не удалось прочесть файл.";
     public static final String FAILED_TO_WRITE = "Не удалось записать в файл.";
 
-    public static main.java.home.javarush.ask14.task1411.FileManager fileManager = new main.java.home.javarush.ask14.task1411.FileManager();
+    public static home.javarush.ask14.task1411.FileManager fileManager = new home.javarush.ask14.task1411.FileManager();
 
     public static void main(String[] args) {
         try {

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task13.task1323;
+package home.javarush.javaCore.task13.task1323;
 
 /* 
 Интерфейс Updatable в классе Screen

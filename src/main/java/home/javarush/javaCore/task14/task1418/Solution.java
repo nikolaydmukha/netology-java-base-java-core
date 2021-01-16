@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1418;
+package home.javarush.javaCore.task14.task1418;
 
 import java.util.LinkedList;
 import java.util.List;

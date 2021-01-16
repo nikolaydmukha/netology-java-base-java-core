@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.treemap.thief;
+package home.netology.javabase.collections.treemap.thief;
 
 import java.io.File;
 import java.io.FileNotFoundException;

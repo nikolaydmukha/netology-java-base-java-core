@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1109;
+package home.javarush.javaSyntax.task11.task1109;
 
 public class Outer {
     class Inner {

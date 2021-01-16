@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task13.task1302;
+package home.javarush.javaCore.task13.task1302;
 
 /* 
 Пиво-2. Возвращение

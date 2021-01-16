@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.OOP.inheritance.cars.purposetype;
+package home.netology.javabase.OOP.inheritance.cars.purposetype;
 
-import main.java.home.netology.javabase.OOP.inheritance.cars.VehicleTypeEnum;
+import home.netology.javabase.OOP.inheritance.cars.VehicleTypeEnum;
 
 public class Passenger extends VehicleTypeByPurpose {
 

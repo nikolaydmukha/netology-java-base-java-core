@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1413;
+package home.javarush.javaCore.task14.task1413;
 
 public class Mouse implements CompItem{
     @Override

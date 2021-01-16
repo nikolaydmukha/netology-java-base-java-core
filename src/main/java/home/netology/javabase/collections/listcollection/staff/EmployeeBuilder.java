@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.listcollection.staff;
+package home.netology.javabase.collections.listcollection.staff;
 
 public class EmployeeBuilder {
     private Employee newEmployee;

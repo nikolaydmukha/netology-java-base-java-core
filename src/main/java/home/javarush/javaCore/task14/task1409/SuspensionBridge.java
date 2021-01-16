@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1409;
+package home.javarush.javaCore.task14.task1409;
 
 public class SuspensionBridge implements Bridge{
     @Override

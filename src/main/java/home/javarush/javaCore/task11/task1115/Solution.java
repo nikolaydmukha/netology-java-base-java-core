@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task11.task1115;
+package home.javarush.javaCore.task11.task1115;
 
 /* 
 От школьника до пенсии

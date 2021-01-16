@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.treemap.thief;
+package home.netology.javabase.collections.treemap.thief;
 
 public class User {
     private int id;

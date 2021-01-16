@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.queuecollection.polish_notation;
+package home.netology.javabase.collections.queuecollection.polish_notation;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

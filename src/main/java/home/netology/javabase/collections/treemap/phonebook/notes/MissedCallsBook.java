@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.treemap.phonebook.notes;
+package home.netology.javabase.collections.treemap.phonebook.notes;
 
 import java.time.LocalDateTime;
 import java.util.TreeMap;

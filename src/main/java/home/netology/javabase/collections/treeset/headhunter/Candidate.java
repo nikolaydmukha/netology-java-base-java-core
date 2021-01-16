@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.treeset.headhunter;
+package home.netology.javabase.collections.treeset.headhunter;
 
 public class Candidate{
     public String firstName;

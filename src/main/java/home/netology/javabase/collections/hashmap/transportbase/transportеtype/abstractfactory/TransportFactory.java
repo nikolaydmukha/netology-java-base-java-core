@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.abstractfactory;
+package home.netology.javabase.collections.hashmap.transportbase.transportеtype.abstractfactory;
 
-import main.java.home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.EngineTypes;
+import home.netology.javabase.collections.hashmap.transportbase.transportеtype.features.EngineTypes;
 
 public interface TransportFactory<T> {
 

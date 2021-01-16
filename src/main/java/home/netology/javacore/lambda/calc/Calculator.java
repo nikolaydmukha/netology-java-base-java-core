@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.lambda.calc;
+package home.netology.javacore.lambda.calc;
 
 import java.util.function.*;
 

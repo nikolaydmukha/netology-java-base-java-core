@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1204;
+package home.javarush.javaCore.task12.task1204;
 
 /* 
 То ли птица, то ли лампа

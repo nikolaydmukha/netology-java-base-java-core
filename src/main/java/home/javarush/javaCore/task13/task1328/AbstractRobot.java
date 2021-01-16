@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task13.task1328;
+package home.javarush.javaCore.task13.task1328;
 
 public abstract class AbstractRobot implements Attackable, Defensable {
     private int hitCount;

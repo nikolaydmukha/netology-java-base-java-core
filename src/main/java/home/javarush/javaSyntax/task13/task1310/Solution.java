@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task13.task1310;
+package home.javarush.javaSyntax.task13.task1310;
 
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1203;
+package home.javarush.javaCore.task12.task1203;
 
 /* 
 Кесарю — кесарево

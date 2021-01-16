@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task16.task1620;
+package home.javarush.javaSyntax.task16.task1620;
 
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;

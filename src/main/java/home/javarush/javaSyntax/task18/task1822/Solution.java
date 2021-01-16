@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task18.task1822;
+package home.javarush.javaSyntax.task18.task1822;
 
 import java.util.List;
 import java.util.stream.Collectors;

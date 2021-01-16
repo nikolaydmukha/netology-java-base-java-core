@@ -1,4 +1,4 @@
-package main.java.home.javamentor.oop.oopcatdog;
+package home.javamentor.oop.oopcatdog;
 
 public class OOPCatDog {
     public static void main(String[] args) {

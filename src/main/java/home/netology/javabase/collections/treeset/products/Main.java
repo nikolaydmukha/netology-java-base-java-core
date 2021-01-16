@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.treeset.products;
+package home.netology.javabase.collections.treeset.products;
 
 import java.math.BigDecimal;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.exceptions.urlvalidator.ex;
+package home.netology.javabase.exceptions.urlvalidator.ex;
 
 public class NotValidUrlException extends Exception{
 

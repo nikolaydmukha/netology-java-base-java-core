@@ -1,4 +1,4 @@
-package main.java.home.javamentor.oop.oophuman;
+package home.javamentor.oop.oophuman;
 
 public class HumanMy {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task17.task1708;
+package home.javarush.javaSyntax.task17.task1708;
 
 /* 
 Минимальное и максимальное

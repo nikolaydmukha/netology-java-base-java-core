@@ -1,7 +1,7 @@
-package main.java.home.netology.javabase.collections.treemap.phonebook.notes;
+package home.netology.javabase.collections.treemap.phonebook.notes;
 
-import main.java.home.netology.javabase.collections.treemap.phonebook.Contact;
-import main.java.home.netology.javabase.collections.treemap.phonebook.Group;
+import home.netology.javabase.collections.treemap.phonebook.Contact;
+import home.netology.javabase.collections.treemap.phonebook.Group;
 
 import java.util.ArrayList;
 import java.util.HashMap;

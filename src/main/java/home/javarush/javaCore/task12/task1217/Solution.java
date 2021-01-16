@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1217;
+package home.javarush.javaCore.task12.task1217;
 
 /* 
 Лететь, бежать и плыть

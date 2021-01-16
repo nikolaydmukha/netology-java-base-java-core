@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.generics.sinmpletasks;
+package home.netology.javacore.generics.sinmpletasks;
 
 public class BigBox<K, T> {
     private K key;

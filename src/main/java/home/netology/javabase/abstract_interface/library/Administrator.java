@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.abstract_interface.library;
+package home.netology.javabase.abstract_interface.library;
 
-import main.java.home.netology.javabase.abstract_interface.library.interfaces.IAdministrator;
+import home.netology.javabase.abstract_interface.library.interfaces.IAdministrator;
 
 public class Administrator implements IAdministrator {
     @Override

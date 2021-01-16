@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task18.task1803;
+package home.javarush.javaSyntax.task18.task1803;
 
 public class JavaRushMentor {
     private String name;

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task15.task1519;
+package home.javarush.javaSyntax.task15.task1519;
 
 import java.io.IOException;
 import java.nio.file.DirectoryStream;

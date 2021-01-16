@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.lambda.functionalinterface;
+package home.netology.javacore.lambda.functionalinterface;
 
 public class HeavyBox {
     private int weight;

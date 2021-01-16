@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.queuecollection.transactions;
+package home.netology.javabase.collections.queuecollection.transactions;
 
 import java.math.BigDecimal;
 import java.util.*;

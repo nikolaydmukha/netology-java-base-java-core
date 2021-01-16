@@ -1,8 +1,8 @@
-package main.java.home.netology.javabase.OOP.inheritance.cars;
+package home.netology.javabase.OOP.inheritance.cars;
 
-import main.java.home.netology.javabase.OOP.inheritance.cars.bodytype.VehicleTypeByBodyTypes;
-import main.java.home.netology.javabase.OOP.inheritance.cars.fueltype.VehicleTypeByFuelTypes;
-import main.java.home.netology.javabase.OOP.inheritance.cars.purposetype.VehicleTypeByPurpose;
+import home.netology.javabase.OOP.inheritance.cars.bodytype.VehicleTypeByBodyTypes;
+import home.netology.javabase.OOP.inheritance.cars.fueltype.VehicleTypeByFuelTypes;
+import home.netology.javabase.OOP.inheritance.cars.purposetype.VehicleTypeByPurpose;
 
 public class AdsService {
     private VehicleAd[] adList;

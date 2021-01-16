@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1109;
+package home.javarush.javaSyntax.task11.task1109;
 /*
 В классе Outer есть внутренний (Inner) и вложенный (Nested) классы. В методе main класса Solution создай по одному
 объекту каждого из них.

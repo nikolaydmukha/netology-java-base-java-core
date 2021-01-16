@@ -1,9 +1,9 @@
-package main.java.home.netology.javabase.abstract_interface.engineerscv.professions;
+package home.netology.javabase.abstract_interface.engineerscv.professions;
 
-import main.java.home.netology.javabase.abstract_interface.engineerscv.Engineer;
-import main.java.home.netology.javabase.abstract_interface.engineerscv.skills.ICSS;
-import main.java.home.netology.javabase.abstract_interface.engineerscv.skills.IGIT;
-import main.java.home.netology.javabase.abstract_interface.engineerscv.skills.IHTML;
+import home.netology.javabase.abstract_interface.engineerscv.Engineer;
+import home.netology.javabase.abstract_interface.engineerscv.skills.ICSS;
+import home.netology.javabase.abstract_interface.engineerscv.skills.IGIT;
+import home.netology.javabase.abstract_interface.engineerscv.skills.IHTML;
 
 public class WebDeveloper extends Engineer implements ICSS, IGIT, IHTML {
     public WebDeveloper(String name, int age, String country) {

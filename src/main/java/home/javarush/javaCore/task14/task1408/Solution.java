@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1408;
+package home.javarush.javaCore.task14.task1408;
 
 /* 
 Куриная фабрика

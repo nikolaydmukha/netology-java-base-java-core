@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1401;
+package home.javarush.javaCore.task14.task1401;
 
 /* 
 Bingo!

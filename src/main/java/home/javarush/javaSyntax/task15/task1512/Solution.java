@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task15.task1512;
+package home.javarush.javaSyntax.task15.task1512;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

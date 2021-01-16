@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1226;
+package home.javarush.javaCore.task12.task1226;
 
 /* 
 Лазать, летать и бегать

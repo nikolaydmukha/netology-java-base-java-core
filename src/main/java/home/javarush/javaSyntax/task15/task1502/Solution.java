@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task15.task1502;
+package home.javarush.javaSyntax.task15.task1502;
 
 import java.util.Scanner;
 

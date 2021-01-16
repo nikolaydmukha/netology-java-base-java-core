@@ -1,8 +1,8 @@
-package main.java.home.netology.javabase.abstract_interface.engineerscv;
+package home.netology.javabase.abstract_interface.engineerscv;
 
-import main.java.home.netology.javabase.abstract_interface.engineerscv.professions.FrontEndDeveloper;
-import main.java.home.netology.javabase.abstract_interface.engineerscv.professions.PythonDeveloper;
-import main.java.home.netology.javabase.abstract_interface.engineerscv.professions.WebDeveloper;
+import home.netology.javabase.abstract_interface.engineerscv.professions.FrontEndDeveloper;
+import home.netology.javabase.abstract_interface.engineerscv.professions.PythonDeveloper;
+import home.netology.javabase.abstract_interface.engineerscv.professions.WebDeveloper;
 
 public class Main {
     public static void main(String[] args) {

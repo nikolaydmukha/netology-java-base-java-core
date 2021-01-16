@@ -1,4 +1,4 @@
-package main.java.home.javamentor.printoddnumbers;
+package home.javamentor.printoddnumbers;
 
 public class PrintOddNumbers {
     public static void main(String[] args) {

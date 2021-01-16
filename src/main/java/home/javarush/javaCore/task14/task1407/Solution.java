@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1407;
+package home.javarush.javaCore.task14.task1407;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

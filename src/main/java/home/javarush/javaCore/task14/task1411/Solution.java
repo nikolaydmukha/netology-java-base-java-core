@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1411;
+package home.javarush.javaCore.task14.task1411;
 
 import java.awt.image.AreaAveragingScaleFilter;
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1221;
+package home.javarush.javaCore.task12.task1221;
 
 /* 
 Все мы немного кошки…

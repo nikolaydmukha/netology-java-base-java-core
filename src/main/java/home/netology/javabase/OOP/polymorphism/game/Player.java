@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.OOP.polymorphism.game;
+package home.netology.javabase.OOP.polymorphism.game;
 
-import main.java.home.netology.javabase.OOP.polymorphism.game.weapon.Weapon;
+import home.netology.javabase.OOP.polymorphism.game.weapon.Weapon;
 
 public class Player {
     private Weapon[] weapons;

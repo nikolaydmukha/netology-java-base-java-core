@@ -1,4 +1,4 @@
-package main.java.home.javamentor.mergearrays;
+package home.javamentor.mergearrays;
 
 import java.util.Arrays;
 

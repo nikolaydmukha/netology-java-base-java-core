@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.OOP.inheritance.cars.fueltype;
+package home.netology.javabase.OOP.inheritance.cars.fueltype;
 
-import main.java.home.netology.javabase.OOP.inheritance.cars.VehicleTypeEnum;
+import home.netology.javabase.OOP.inheritance.cars.VehicleTypeEnum;
 
 public class Petrol extends VehicleTypeByFuelTypes {
 

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task18.task1812;
+package home.javarush.javaSyntax.task18.task1812;
 
 public class Language implements Comparable<Language>{
     private String name;

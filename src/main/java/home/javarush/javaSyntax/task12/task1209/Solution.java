@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task12.task1209;
+package home.javarush.javaSyntax.task12.task1209;
 /*
 В классе Solution есть список сотрудников waitingEmployees, которые ждут зарплату, и список сотрудников
 alreadyGotSalaryEmployees, которые её уже получили. Необходимо реализовать метод paySalary(String), который в

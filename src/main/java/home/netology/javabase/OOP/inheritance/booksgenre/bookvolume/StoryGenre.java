@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.OOP.inheritance.booksgenre.bookvolume;
+package home.netology.javabase.OOP.inheritance.booksgenre.bookvolume;
 
-import main.java.home.netology.javabase.OOP.inheritance.booksgenre.GenreEnum;
+import home.netology.javabase.OOP.inheritance.booksgenre.GenreEnum;
 
 public class StoryGenre extends GenreByNumberOfPages {
     private int maxPages;

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1213;
+package home.javarush.javaCore.task12.task1213;
 
 /* 
 «Исправь код», часть 2

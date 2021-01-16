@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.collections.treeset.wishlist.wishcomparator;
+package home.netology.javabase.collections.treeset.wishlist.wishcomparator;
 
-import main.java.home.netology.javabase.collections.treeset.wishlist.Wish;
+import home.netology.javabase.collections.treeset.wishlist.Wish;
 
 import java.util.Comparator;
 

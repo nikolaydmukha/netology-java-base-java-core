@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task15.task1517;
+package home.javarush.javaSyntax.task15.task1517;
 
 import java.io.IOException;
 import java.nio.file.Files;

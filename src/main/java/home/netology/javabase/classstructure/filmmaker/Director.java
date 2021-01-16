@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.classstructure.filmmaker;
+package home.netology.javabase.classstructure.filmmaker;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

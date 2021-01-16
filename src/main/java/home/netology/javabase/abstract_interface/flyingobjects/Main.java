@@ -1,8 +1,8 @@
-package main.java.home.netology.javabase.abstract_interface.flyingobjects;
+package home.netology.javabase.abstract_interface.flyingobjects;
 
-import main.java.home.netology.javabase.abstract_interface.flyingobjects.aircraft.Boeing777;
-import main.java.home.netology.javabase.abstract_interface.flyingobjects.helicopter.Mi8;
-import main.java.home.netology.javabase.abstract_interface.flyingobjects.rocket.RocketSalut;
+import home.netology.javabase.abstract_interface.flyingobjects.aircraft.Boeing777;
+import home.netology.javabase.abstract_interface.flyingobjects.helicopter.Mi8;
+import home.netology.javabase.abstract_interface.flyingobjects.rocket.RocketSalut;
 
 public class Main {
     public static void main(String[] args) {

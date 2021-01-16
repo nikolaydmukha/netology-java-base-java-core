@@ -1,4 +1,4 @@
-package main.java.home.javamentor.evenarray;
+package home.javamentor.evenarray;
 
 public class EvenArray {
     public static void main(String[] args) {

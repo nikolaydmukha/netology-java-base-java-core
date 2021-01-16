@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task18.task1813;
+package home.javarush.javaSyntax.task18.task1813;
 
 import java.util.ArrayList;
 import java.util.Collections;

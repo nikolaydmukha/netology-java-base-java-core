@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task16.task1610;
+package home.javarush.javaSyntax.task16.task1610;
 
 import java.time.LocalTime;
 

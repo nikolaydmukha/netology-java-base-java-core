@@ -1,7 +1,7 @@
-package main.java.home.netology.javabase.abstract_interface.engineerscv.professions;
+package home.netology.javabase.abstract_interface.engineerscv.professions;
 
-import main.java.home.netology.javabase.abstract_interface.engineerscv.Engineer;
-import main.java.home.netology.javabase.abstract_interface.engineerscv.skills.*;
+import home.netology.javabase.abstract_interface.engineerscv.Engineer;
+import home.netology.javabase.abstract_interface.engineerscv.skills.*;
 
 public class FrontEndDeveloper extends Engineer implements ICSS, IHTML, IGIT, IJavaScript {
     public FrontEndDeveloper(String name, int age, String country) {

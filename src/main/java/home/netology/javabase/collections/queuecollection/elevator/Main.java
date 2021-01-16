@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.queuecollection.elevator;
+package home.netology.javabase.collections.queuecollection.elevator;
 
 import java.util.*;
 

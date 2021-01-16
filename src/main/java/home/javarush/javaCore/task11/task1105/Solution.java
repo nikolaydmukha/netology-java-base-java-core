@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task11.task1105;
+package home.javarush.javaCore.task11.task1105;
 
 /* 
 ИТ-компания

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task11.task1111;
+package home.javarush.javaCore.task11.task1111;
 
 /* 
 «Из ребра его»

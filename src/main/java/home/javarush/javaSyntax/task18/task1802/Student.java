@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task18.task1802;
+package home.javarush.javaSyntax.task18.task1802;
 
 public class Student {
     private String name;

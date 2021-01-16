@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.lambda.worker;
+package home.netology.javacore.lambda.worker;
 
 @FunctionalInterface
 public interface OnTaskErrorListener {

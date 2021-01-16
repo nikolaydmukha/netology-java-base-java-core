@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1224;
+package home.javarush.javaCore.task12.task1224;
 
 /* 
 Неведома зверушка

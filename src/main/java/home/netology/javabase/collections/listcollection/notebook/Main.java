@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.listcollection.notebook;
+package home.netology.javabase.collections.listcollection.notebook;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

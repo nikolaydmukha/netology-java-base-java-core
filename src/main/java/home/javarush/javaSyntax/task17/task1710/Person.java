@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task17.task1710;
+package home.javarush.javaSyntax.task17.task1710;
 
 /* 
 От абстракции к реальности

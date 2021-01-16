@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task16.task1608;
+package home.javarush.javaSyntax.task16.task1608;
 
 import java.time.LocalDate;
 import java.time.format.TextStyle;

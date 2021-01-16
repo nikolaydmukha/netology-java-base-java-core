@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1232;
+package home.javarush.javaCore.task12.task1232;
 
 /* 
 Нужно добавить в программу новую функциональность

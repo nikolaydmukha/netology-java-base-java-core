@@ -1,4 +1,4 @@
-package main.java.home.javamentor.binaryoperations;
+package home.javamentor.binaryoperations;
 
 public class BinaryOperations {
     public static void main(String[] args) {

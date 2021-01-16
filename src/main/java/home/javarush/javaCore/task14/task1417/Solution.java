@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task14.task1417;
+package home.javarush.javaCore.task14.task1417;
 
 import java.util.ArrayList;
 import java.util.List;

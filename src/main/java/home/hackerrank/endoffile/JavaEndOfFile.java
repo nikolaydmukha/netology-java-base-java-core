@@ -1,4 +1,4 @@
-package main.java.home.hackerrank.endoffile;
+package home.hackerrank.endoffile;
 
 import java.util.Scanner;
 

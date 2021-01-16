@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.OOP.inheritance.booksstatus;
+package home.netology.javabase.OOP.inheritance.booksstatus;
 
 public class Book {
     private String title;

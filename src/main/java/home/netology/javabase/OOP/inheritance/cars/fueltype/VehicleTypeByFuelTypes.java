@@ -1,6 +1,6 @@
-package main.java.home.netology.javabase.OOP.inheritance.cars.fueltype;
+package home.netology.javabase.OOP.inheritance.cars.fueltype;
 
-import main.java.home.netology.javabase.OOP.inheritance.cars.VehicleType;
+import home.netology.javabase.OOP.inheritance.cars.VehicleType;
 
 public class VehicleTypeByFuelTypes extends VehicleType {
 

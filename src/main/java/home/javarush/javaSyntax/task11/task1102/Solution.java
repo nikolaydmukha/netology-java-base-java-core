@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1102;
+package home.javarush.javaSyntax.task11.task1102;
 
 /* 
 Земля: техническая характеристика

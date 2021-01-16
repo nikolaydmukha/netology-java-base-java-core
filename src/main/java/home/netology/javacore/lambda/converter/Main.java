@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.lambda.converter;
+package home.netology.javacore.lambda.converter;
 
 public class Main {
     public static void main(String[] args) {

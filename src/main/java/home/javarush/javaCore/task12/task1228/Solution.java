@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1228;
+package home.javarush.javaCore.task12.task1228;
 
 /* 
 Интерфейсы к классу Human

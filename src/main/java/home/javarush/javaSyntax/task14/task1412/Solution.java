@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task14.task1412;
+package home.javarush.javaSyntax.task14.task1412;
 
 public class Solution {
 

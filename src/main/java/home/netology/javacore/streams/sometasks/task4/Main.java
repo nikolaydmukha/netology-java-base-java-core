@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.streams.sometasks.task4;
+package home.netology.javacore.streams.sometasks.task4;
 
 import java.util.Arrays;
 import java.util.Collection;

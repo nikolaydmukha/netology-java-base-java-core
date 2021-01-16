@@ -1,4 +1,4 @@
-package main.java.home.hackerrank.stdin;
+package home.hackerrank.stdin;
 
 import java.util.Locale;
 import java.util.Scanner;

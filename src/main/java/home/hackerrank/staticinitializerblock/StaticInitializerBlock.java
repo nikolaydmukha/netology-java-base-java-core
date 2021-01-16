@@ -1,4 +1,4 @@
-package main.java.home.hackerrank.staticinitializerblock;
+package home.hackerrank.staticinitializerblock;
 
 import java.util.Scanner;
 

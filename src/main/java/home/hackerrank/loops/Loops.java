@@ -1,4 +1,4 @@
-package main.java.home.hackerrank.loops;
+package home.hackerrank.loops;
 
 import java.util.Scanner;
 

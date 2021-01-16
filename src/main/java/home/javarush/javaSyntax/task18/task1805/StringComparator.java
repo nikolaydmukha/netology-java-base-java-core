@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task18.task1805;
+package home.javarush.javaSyntax.task18.task1805;
 
 import java.util.Comparator;
 

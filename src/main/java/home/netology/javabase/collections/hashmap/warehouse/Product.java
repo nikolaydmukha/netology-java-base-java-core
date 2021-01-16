@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.collections.hashmap.warehouse;
+package home.netology.javabase.collections.hashmap.warehouse;
 
 public class Product {
     private int number;

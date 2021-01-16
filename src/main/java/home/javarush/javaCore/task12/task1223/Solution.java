@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task12.task1223;
+package home.javarush.javaCore.task12.task1223;
 
 /* 
 И снова Пушистик…

@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task11.task1123;
+package home.javarush.javaSyntax.task11.task1123;
 
 import java.util.ArrayList;
 import java.util.List;

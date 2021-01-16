@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaSyntax.task12.task1211;
+package home.javarush.javaSyntax.task12.task1211;
 
 /*
 Перед тобой программа, которая сортирует элементы списка по возрастанию методом "пузырька".

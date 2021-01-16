@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.generics.fruitsbag;
+package home.netology.javacore.generics.fruitsbag;
 
 public class FruitsBox<K, V extends Fruits> {
     private K key;

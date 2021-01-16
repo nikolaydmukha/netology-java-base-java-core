@@ -1,4 +1,4 @@
-package main.java.home.netology.javacore.streams.population;
+package home.netology.javacore.streams.population;
 
 public class Person {
 

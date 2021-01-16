@@ -1,4 +1,4 @@
-package main.java.home.javarush.javaCore.task11.task1114;
+package home.javarush.javaCore.task11.task1114;
 
 /* 
 Происхождение видов

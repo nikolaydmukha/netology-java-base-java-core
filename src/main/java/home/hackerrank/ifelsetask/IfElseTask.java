@@ -1,4 +1,4 @@
-package main.java.home.hackerrank.ifelsetask;
+package home.hackerrank.ifelsetask;
 /*
 Given an integer,
 perform the following conditional actions:

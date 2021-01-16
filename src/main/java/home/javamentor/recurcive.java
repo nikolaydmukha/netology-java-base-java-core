@@ -1,4 +1,4 @@
-package main.java.home.javamentor;
+package home.javamentor;
 
 public class recurcive {
 

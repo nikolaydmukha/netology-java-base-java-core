@@ -1,4 +1,4 @@
-package main.java.home.netology.javabase.classstructure.library.user.account;
+package home.netology.javabase.classstructure.library.user.account;
 
 public class Book {
 
