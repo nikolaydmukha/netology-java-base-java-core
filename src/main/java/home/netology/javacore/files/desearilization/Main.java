@@ -1,4 +1,4 @@
-package home.netology.javacore.files.gamesetup.desearilization;
+package home.netology.javacore.files.desearilization;
 
 import org.apache.commons.io.FilenameUtils;
 
