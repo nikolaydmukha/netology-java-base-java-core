@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "firstname": "John",
+  "lastname": "Smith",
+  "country": "USA",
+  "age": 25
+}{
+  "id": 2,
+  "firstname": "Ivan",
+  "lastname": "Petrov",
+  "country": "RU",
+  "age": 23
+}
