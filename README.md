@@ -28,3 +28,5 @@
 [1.3	Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/files)
 
 [1.4	Многомодульный проект Maven](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/maven)
+
+[1.5	Работа с файлами CSV, XML, JSON](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/json_csv_xml)
