@@ -1,6 +1,7 @@
-package home.netology.javacore.json_csv_xml.csv2json;
+package home.netology.javacore.json_csv_xml.xml2json;
 
 public class Employee {
+
     private int id;
     private String firstname;
     private String lastname;
