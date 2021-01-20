@@ -30,3 +30,5 @@
 [1.4	Многомодульный проект Maven](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/maven)
 
 [1.5	Работа с файлами CSV, XML, JSON](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/json_csv_xml)
+
+[1.6	 Основы работы с сетью](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/network/clientserver)
