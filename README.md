@@ -35,3 +35,5 @@
 
 [1.6	 Протокол HTTP. Вызовы удаленных серверов](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/network)
 
+### Шаблоны проектирования
+[1.1	 Порождающие шаблоны](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/patterns/creational)
