@@ -37,3 +37,5 @@
 
 ### Шаблоны проектирования
 [1.1	 Порождающие шаблоны](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/patterns/creational)
+
+[1.1	 Структурные шаблоны](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/patterns/structural)
