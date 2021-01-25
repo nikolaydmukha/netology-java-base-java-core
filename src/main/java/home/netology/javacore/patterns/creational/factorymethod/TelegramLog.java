@@ -4,6 +4,6 @@ public class TelegramLog implements ILog{
 
     @Override
     public void log(String message) {
-        System.out.println("TelegramLog");
+        System.out.println("Telegram Log");
     }
 }
