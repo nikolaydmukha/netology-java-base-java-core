@@ -7,16 +7,18 @@
 объектов). Вместо этого мы должны использовать методы .add(…) и .compareTo(…) соответственно.
 
 Экземпляр этого класса можно создать с помощью new BigDecimal("0.1") или BigDecimal.valueOf(0.2). Как и String,
-экземпляры этого класса неизменяемые (иммутабельные), а методы .add(…), .multiply(…) возвращают новый объект,
-содержащий результат операции.
+экземпляры этого класса неизменяемые (иммутабельные), а методы .add(…), .multiply(…) возвращают новый объект, содержащий
+результат операции.
 
 Например, чтобы сложить 0.1 рубля и 0.2 рубля и получить ожидаемые 30 копеек, мы могли бы написать код:
+
 ```java
-BigDecimal first = new BigDecimal("0.10");
-BigDecimal second = BigDecimal.valueOf(0.2);
+BigDecimal first=new BigDecimal("0.10");
+        BigDecimal second=BigDecimal.valueOf(0.2);
 
-BigDecimal sum = first.add(second);
+        BigDecimal sum=first.add(second);
 
-System.out.println(sum.toString()); // => 0.30
+        System.out.println(sum.toString()); // => 0.30
 ```
+
 При делении BigDecimal нужно обязательно указывать способ округления результата.
