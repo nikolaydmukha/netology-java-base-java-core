@@ -41,3 +41,5 @@
 [1.2	 Структурные шаблоны](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/patterns/structural)
 
 [1.3	 Поведенческие шаблоны](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/patterns/behave)
+
+[1.4	 Многопоточное программирование](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/multithreading)
