@@ -12,7 +12,7 @@ public class MyThread extends Thread{
     public void run() {
         try {
             while (!isInterrupted()) {
-                Thread.sleep(2500);
+                Thread.sleep(500);
                 System.out.println("Я " + getName() + ". Всем привет!");
             }
         } catch (InterruptedException err) {

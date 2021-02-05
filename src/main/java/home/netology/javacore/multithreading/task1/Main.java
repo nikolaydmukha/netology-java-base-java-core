@@ -10,7 +10,7 @@ public class Main {
         MyThread myThread2 = new MyThread("Поток 2");
         MyThread myThread3 = new MyThread("Поток 3");
         MyThread myThread4 = new MyThread("Поток 4");
-
+        System.out.println("Создаем потоки");
         ThreadGroup tg = new ThreadGroup("Group 1");
 
         Thread thread1 = new Thread(tg, myThread1);
