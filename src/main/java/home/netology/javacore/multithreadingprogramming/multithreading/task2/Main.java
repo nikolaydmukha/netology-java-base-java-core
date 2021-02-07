@@ -1,4 +1,4 @@
-package home.netology.javacore.multithreading.task2;
+package home.netology.javacore.multithreadingprogramming.multithreading.task2;
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
 

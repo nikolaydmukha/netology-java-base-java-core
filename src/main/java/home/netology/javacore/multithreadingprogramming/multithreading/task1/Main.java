@@ -1,7 +1,4 @@
-package home.netology.javacore.multithreading.task1;
-
-import java.util.ArrayList;
-import java.util.List;
+package home.netology.javacore.multithreadingprogramming.multithreading.task1;
 
 public class Main {
     public static void main(String[] args) {

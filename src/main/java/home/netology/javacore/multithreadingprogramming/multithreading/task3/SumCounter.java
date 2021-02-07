@@ -1,4 +1,4 @@
-package home.netology.javacore.multithreading.task3;
+package home.netology.javacore.multithreadingprogramming.multithreading.task3;
 
 
 import java.util.ArrayList;

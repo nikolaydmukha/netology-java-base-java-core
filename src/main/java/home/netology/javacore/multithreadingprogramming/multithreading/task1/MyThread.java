@@ -1,4 +1,4 @@
-package home.netology.javacore.multithreading.task1;
+package home.netology.javacore.multithreadingprogramming.multithreading.task1;
 
 public class MyThread extends Thread{
 
