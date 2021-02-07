@@ -35,7 +35,7 @@
 
 [1.6	 Протокол HTTP. Вызовы удаленных серверов](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/network)
 
-### Шаблоны проектирования
+### Блок 2. Шаблоны проектирования
 [1.1	 Порождающие шаблоны](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/patterns/creational)
 
 [1.2	 Структурные шаблоны](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/patterns/structural)
@@ -43,7 +43,7 @@
 [1.3	 Поведенческие шаблоны](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/patterns/behave)
 
 
-### Многопоточное программирование
+### Блок 3. Многопоточное программирование
 [1.1	 Многопоточное(параллельное) программирование](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/multithreading)
 
 [1.2	 Работа с синхронизацией. Synchronization, wait, notify, sleep, lock](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/multithreadingprogramming/synchronization)
