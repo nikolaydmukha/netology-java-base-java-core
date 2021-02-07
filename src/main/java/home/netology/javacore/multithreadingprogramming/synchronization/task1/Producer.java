@@ -1,8 +1,5 @@
 package home.netology.javacore.multithreadingprogramming.synchronization.task1;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Producer implements Runnable {
 
     private AutoDealer dealer;
@@ -13,13 +10,10 @@ public class Producer implements Runnable {
 
     @Override
     public void run() {
-        System.out.println("Машины привёз поставщик " + Thread.currentThread().getName());
-        List<Car> cars = new ArrayList<>();
-        cars.add(new Car("Mercedes-Benz"));
-        cars.add(new Car("BMW"));
-        cars.add(new Car("Volvo"));
-        cars.add(new Car("Lexus"));
-
-        dealer.receiveCar(cars);
+        Car car = new Car("Mercedes-Benz");
+        for (int i = 1; i < 10; i++) {
+            car.setName(String.valueOf(i));
+            dealer.receiveCar(car);
+        }
     }
 }
