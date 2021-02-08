@@ -1,4 +1,4 @@
-package home.netology.javacore.multithreadingprogramming.synchronization.task2;
+package home.netology.javacore.multithreadingprogramming.synchronization.task4;
 
 public class Program {
 
