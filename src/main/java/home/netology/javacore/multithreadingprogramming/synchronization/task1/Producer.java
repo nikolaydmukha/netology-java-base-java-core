@@ -10,9 +10,8 @@ public class Producer implements Runnable {
 
     @Override
     public void run() {
-        Car car = new Car("Mercedes-Benz");
         for (int i = 1; i < 10; i++) {
-            car.setName(String.valueOf(i));
+            Car car = new Car("Mercedes-Benz".concat(String.valueOf(i)));
             dealer.receiveCar(car);
         }
     }

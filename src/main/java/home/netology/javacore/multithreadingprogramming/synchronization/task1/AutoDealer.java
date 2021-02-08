@@ -33,7 +33,6 @@ public class AutoDealer {
     }
 
     public synchronized void sellCar() {
-
         while (totalCarsNumber == 0) {
             try {
                 System.out.println("Нет машин в наличии.");
