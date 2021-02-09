@@ -11,5 +11,10 @@ public class Waiter implements Runnable{
     @Override
     public void run() {
         System.out.println("Официант " + Thread.currentThread().getName() + " заступил на дежурство.");
+        try {
+            cafe.getOrder();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 }
