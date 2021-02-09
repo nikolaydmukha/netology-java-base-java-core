@@ -11,6 +11,7 @@ public class Program {
         new Thread(consumer).start();
     }
 }
+
 // Класс Магазин, хранящий произведенные товары
 class Store{
     private int product=0;
