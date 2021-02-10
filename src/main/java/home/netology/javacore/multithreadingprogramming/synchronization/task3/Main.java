@@ -1,6 +1,7 @@
 package home.netology.javacore.multithreadingprogramming.synchronization.task3;
 
 public class Main {
+    final static int TIME_TO_GET_WORK = 4000;
     public static void main(String[] args) throws InterruptedException {
 
         Cafe cafe = new Cafe();
@@ -45,13 +46,13 @@ public class Main {
         threadWaiter4.start();
         threadWaiter5.start();
 
-        Thread.sleep(5000);
+        Thread.sleep(TIME_TO_GET_WORK);
         threadCustomers1.start();
-        Thread.sleep(5000);
+        Thread.sleep(TIME_TO_GET_WORK);
         threadCustomers2.start();
         threadCustomers3.start();
         threadCustomers4.start();
-        Thread.sleep(5000);
+        Thread.sleep(TIME_TO_GET_WORK);
         threadCustomers5.start();
 
     }
