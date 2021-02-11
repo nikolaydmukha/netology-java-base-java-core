@@ -1,4 +1,4 @@
-package com.javarush.task.task16.task1605;
+package home.javarush.javaCore.task16.task1605;
 
 import java.util.Date;
 import java.util.Formatter;
