@@ -12,7 +12,6 @@ public class Program {
     }
 }
 
-// Класс Магазин, хранящий произведенные товары
 class Store{
     private int product=0;
     public synchronized void get() {
