@@ -41,7 +41,7 @@ class Store{
         notify();
     }
 }
-// класс Производитель
+
 class Producer implements Runnable{
 
     Store store;
@@ -54,7 +54,7 @@ class Producer implements Runnable{
         }
     }
 }
-// Класс Потребитель
+
 class Consumer implements Runnable{
 
     Store store;
