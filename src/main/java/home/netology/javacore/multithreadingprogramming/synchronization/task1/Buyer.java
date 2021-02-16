@@ -4,7 +4,6 @@ public class Buyer implements Runnable {
 
     private AutoDealer dealer;
 
-
     public Buyer(AutoDealer dealer) {
         this.dealer = dealer;
     }
