@@ -62,7 +62,6 @@ public class Main {
                 }
             }
         }
-
     }
 
     private static ArrayList<File> scanDir() {
