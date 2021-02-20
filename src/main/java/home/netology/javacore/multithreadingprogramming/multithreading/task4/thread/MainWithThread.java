@@ -9,7 +9,7 @@ public class MainWithThread {
         List<Integer> numbers = new ArrayList<>();
 
         Date date = new Date();
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 100_000_000; i++) {
             numbers.add(date.getSeconds() * i);
         }
 
