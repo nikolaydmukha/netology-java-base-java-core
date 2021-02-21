@@ -1,5 +1,7 @@
 package home.netology.javacore.multithreadingprogramming.volatiletasks.task1;
 
+import home.netology.javacore.multithreadingprogramming.volatiletasks.task1.utils.DateUtil;
+
 public class User extends Thread {
 
     private static int SLEEP_TIME = 2000;
@@ -16,9 +18,9 @@ public class User extends Thread {
                 try {
                     Thread.sleep(SLEEP_TIME);
                     switcher.setButtonStatus("On");
-                    System.out.println(Thread.currentThread().getName() + " перевёл тумблер в положение On.");
+                    System.out.println(DateUtil.printCurrentTime() + Thread.currentThread().getName() + " перевёл тумблер в положение On.");
                 } catch (InterruptedException iex) {
-                    System.out.println(Thread.currentThread().getName() + " прерван.");
+                    System.out.println(DateUtil.printCurrentTime() + Thread.currentThread().getName() + " прерван.");
                 }
             }
         }

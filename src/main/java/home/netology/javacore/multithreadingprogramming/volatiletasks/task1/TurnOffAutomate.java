@@ -1,5 +1,8 @@
 package home.netology.javacore.multithreadingprogramming.volatiletasks.task1;
 
+import home.netology.javacore.multithreadingprogramming.volatiletasks.task1.utils.DateUtil;
+
+import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Formatter;
 
@@ -14,17 +17,14 @@ public class TurnOffAutomate extends Thread {
 
     @Override
     public void run() {
-        Date date = new Date();
-        Formatter f = new Formatter();
-        System.out.println(f.format("HH:mm", date));
 
         while (!isInterrupted()) {
             if (switcher.getButtonStatus().equals("On")) {
                 try {
                     Thread.sleep(SLEEP_TIME);
-                    System.out.println(Thread.currentThread().getName() + " перевёл тумблер в положение Off.");
+                    System.out.println(DateUtil.printCurrentTime() + Thread.currentThread().getName() + " перевёл тумблер в положение Off.");
                 } catch (InterruptedException iex) {
-                    System.out.println(Thread.currentThread().getName() + " прерван.");
+                    System.out.println(DateUtil.printCurrentTime() + Thread.currentThread().getName() + " прерван.");
                     break;
                 }
             }
