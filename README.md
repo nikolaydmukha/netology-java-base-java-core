@@ -47,3 +47,5 @@
 [1.1	 Многопоточное(параллельное) программирование](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/multithreading)
 
 [1.2	 Работа с синхронизацией. Synchronization, wait, notify, sleep, lock](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/multithreadingprogramming/synchronization)
+
+[1.3	 Volatile, threadlocal atomics](https://github.com/nikolaydmukha/LearningJava/tree/master/src/main/java/home/netology/javacore/multithreadingprogramming/volatiletasks)
