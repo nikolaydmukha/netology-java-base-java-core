@@ -19,7 +19,7 @@ public class Main {
                 if (Files.isDirectory(path)) {
                     try (DirectoryStream<Path> streamSubDirs = Files.newDirectoryStream(path)) {    //sub dirs
                         for (Path subPath : streamSubDirs) {
-                            System.out.println("Current Directory " + subPath);
+//                            System.out.println("Current Directory " + subPath);
                             for (final File f : subPath.toFile().listFiles()) {
                                 if (f.isFile() && f.getName().equals("Условие.jrtc")) {
                                     removeTopLine(f.getName(), subPath);
