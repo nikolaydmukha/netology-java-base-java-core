@@ -12,26 +12,31 @@ public class Main {
 
     public static void main(String[] args) {
 
-
         for(int i = 0; i < 50; i++){
             synchronizedMap.put("key".concat(String.valueOf(i)), "value".concat(String.valueOf(i)));
             concurrentMap.put("key".concat(String.valueOf(i)), "value".concat(String.valueOf(i)));
         }
 
-        MyThreadConcurrent myThreadConcurrent1 = new MyThreadConcurrent(concurrentMap);
-        MyThreadConcurrent myThreadConcurrent2 = new MyThreadConcurrent(concurrentMap);
-        MyThreadConcurrent myThreadConcurrent3 = new MyThreadConcurrent(concurrentMap);
+        MyThreadConcurrentReader myThreadConcurrentReader1 = new MyThreadConcurrentReader(concurrentMap);
+        MyThreadConcurrentWriter myThreadConcurrentWriter1 = new MyThreadConcurrentWriter(concurrentMap);
+        MyThreadConcurrentReader myThreadConcurrentReader2 = new MyThreadConcurrentReader(concurrentMap);
+        MyThreadConcurrentReader myThreadConcurrentReader3 = new MyThreadConcurrentReader(concurrentMap);
 
-        SynchronizedMap synchronizedMap1 = new SynchronizedMap(synchronizedMap);
-        SynchronizedMap synchronizedMap2 = new SynchronizedMap(synchronizedMap);
-        SynchronizedMap synchronizedMap3 = new SynchronizedMap(synchronizedMap);
+        SynchronizedMapReader synchronizedMapReader1 = new SynchronizedMapReader(synchronizedMap);
+        SynchronizedMapWriter synchronizedMapWriter1 = new SynchronizedMapWriter(synchronizedMap);
+        SynchronizedMapReader synchronizedMapReader2 = new SynchronizedMapReader(synchronizedMap);
+        SynchronizedMapReader synchronizedMapReader3 = new SynchronizedMapReader(synchronizedMap);
 
-        myThreadConcurrent1.start();
-        myThreadConcurrent2.start();
-        myThreadConcurrent3.start();
+        myThreadConcurrentReader1.start();
+        myThreadConcurrentWriter1.start();
+        myThreadConcurrentReader2.start();
+        myThreadConcurrentReader3.start();
 
-        synchronizedMap1.start();
-        synchronizedMap2.start();
-        synchronizedMap3.start();
+
+//        synchronizedMapReader1.start();
+//        synchronizedMapWriter1.start();
+//        synchronizedMapReader2.start();
+//        synchronizedMapReader3.start();
+
     }
 }
