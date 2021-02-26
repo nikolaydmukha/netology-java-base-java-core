@@ -12,7 +12,7 @@ public class SynchronizedMapWriter extends Thread{
     @Override
     public void run() {
         for (int i = 1; i < map.size(); i++) {
-            map.put("key".concat(String.valueOf(i)), Thread.currentThread().getName()).concat(" 1111");
+            map.put("key".concat(String.valueOf(i)), Thread.currentThread().getName()).concat(" 2222");
         }
     }
 }
