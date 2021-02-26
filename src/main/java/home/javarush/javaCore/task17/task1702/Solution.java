@@ -3,9 +3,6 @@ package home.javarush.javaCore.task17.task1702;
 import java.util.ArrayList;
 import java.util.List;
 
-/* 
-Вместе быстрее? Ща проверим :)
-*/
 
 public class Solution {
     public static int threadCount = 10;
