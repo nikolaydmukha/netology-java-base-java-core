@@ -7,7 +7,6 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
-        //stream filter with conditions
         List<String> arr  = new ArrayList<>(Arrays.asList("1", "2", "3", "4"));
         List<String> statuses = new ArrayList<>();
         List<String> statuses2 = new ArrayList<>();
