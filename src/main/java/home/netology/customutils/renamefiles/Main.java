@@ -13,7 +13,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введи адрес: ");
         String dirName = scanner.nextLine();
-        //root dir: C:\Users\n.dmukha\Desktop\Work\Omilia\JavaModules\MyModules\LearningJava\src\main\java\home\javarush\javaCore
+        //root dir: C:\Users\n.dmukha\Desktop\Work\Omilia\JavaModules\MyModules\netology-java-base-java-core\src\main\java\home\javarush\javaCore
         try (DirectoryStream<Path> rootDir = Files.newDirectoryStream(Paths.get(dirName))) {
             for (Path path : rootDir) {
                 if (Files.isDirectory(path)) {
